@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[SKYNET] DumpCodeGenerator", "[SKYNET] DumpAnalyzer\[SKYNET] DumpCodeGenerator.csproj", "{60C49488-05B6-44E7-B2DA-1D6467A90B69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SKYNET.Steam", "..\[SKYNET] Dota2 GameCoordinator Server\SKYNET.Steam\SKYNET.Steam.csproj", "{F779FE7D-E1A1-4245-8B6E-EB078267F5C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60C49488-05B6-44E7-B2DA-1D6467A90B69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60C49488-05B6-44E7-B2DA-1D6467A90B69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60C49488-05B6-44E7-B2DA-1D6467A90B69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60C49488-05B6-44E7-B2DA-1D6467A90B69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F779FE7D-E1A1-4245-8B6E-EB078267F5C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F779FE7D-E1A1-4245-8B6E-EB078267F5C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F779FE7D-E1A1-4245-8B6E-EB078267F5C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F779FE7D-E1A1-4245-8B6E-EB078267F5C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D31EE7F-6C49-489F-9B72-29A196ABF9E8}
+	EndGlobalSection
+EndGlobal
